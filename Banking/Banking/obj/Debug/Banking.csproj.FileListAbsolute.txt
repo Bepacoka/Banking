@@ -1,0 +1,14 @@
+C:\Users\11\source\repos\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\11\source\repos\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\11\source\repos\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.FormSetting.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.Properties.Resources.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.csproj.GenerateResource.cache
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.FormMenu.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.FormHistory.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.FormToptobalance.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Debug\Banking.FormTransfer.resources

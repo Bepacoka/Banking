@@ -1,0 +1,14 @@
+C:\Users\11\source\repos\Banking\Banking\bin\Release\Banking.exe.config
+C:\Users\11\source\repos\Banking\Banking\bin\Release\Banking.exe
+C:\Users\11\source\repos\Banking\Banking\bin\Release\Banking.pdb
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.csprojAssemblyReference.cache
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.FormHistory.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.FormMenu.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.FormSetting.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.FormToptobalance.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.FormTransfer.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.Properties.Resources.resources
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.csproj.GenerateResource.cache
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.csproj.CoreCompileInputs.cache
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.exe
+C:\Users\11\source\repos\Banking\Banking\obj\Release\Banking.pdb
